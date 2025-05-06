@@ -1,3 +1,5 @@
 #!/usr/bin/env python3
+def test_name():
+    print("This is a test.")
 
-print(hello_world)
+hello_world = "Hi there!"
